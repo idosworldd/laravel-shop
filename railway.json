@@ -4,7 +4,7 @@
     "nixpacksPlan": {
       "phases": {
         "setup": {
-          "nixPkgs": ["php84"]
+          "nixPkgs": ["php84", "nodejs_20"]
         }
       }
     }
